@@ -20,3 +20,8 @@ consumer_secret = ''
 access_token = ''
 access_token_secret = ''
 ```
+
+Run:
+```
+python bitcoin.py
+```
