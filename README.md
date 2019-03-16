@@ -8,3 +8,15 @@ References:
 
 
 ![demo](demo.png)
+
+
+# How to run
+
+To run, create a Twitter app from the development API and copy the values of the keys https://developer.twitter.com/:
+
+```
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
+```
